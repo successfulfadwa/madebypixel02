@@ -14,16 +14,14 @@
 
 [![madebypixel02's github stats](https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&layout=compact&theme=blueberry&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * 42 Cursus Stats
 
 [![42 stats](https://badge42.herokuapp.com/api/stats/aperez-b)](https://github.com/JaeSeoKim/badge42)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **madebypixel02/madebypixel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
