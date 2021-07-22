@@ -12,6 +12,8 @@
 
 * User Stats
 
+![42 Born2Code](https://badgen.net/badge/Born2Code/aperez-b/purple?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg)
+
 [![madebypixel02's github stats](https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&layout=compact&theme=blueberry&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
