@@ -5,7 +5,7 @@
 
 * Studying: Data Science & Engineering (Uc3m)
 * Also studying as student in 42 Madrid Fundación Telefónica
-* Linux & Chrome OS User
+* Linux & Chrome OS Enthusiast (I use Arch BTW)
 * More: (TBA)
 
 ## Some Stats
