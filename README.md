@@ -12,11 +12,11 @@
 
 * User Stats
 
-![42 Born2Code](https://badgen.net/badge/Born2Code/aperez-b/yellow?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg)
+[![42 Born2Code](https://badgen.net/badge/Born2Code/aperez-b/yellow?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg)](https://github.com/madebypixel02/42-Madrid-Cursus)
 
 [![madebypixel02's github stats](https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry)](https://github.com/madebypixel02)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry)](https://github.com/madebypixel02)
 
 * 42 Cursus Stats
 
