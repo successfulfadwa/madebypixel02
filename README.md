@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry />
 </p>
 
 * 42 Cursus Stats
