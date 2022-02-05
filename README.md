@@ -12,29 +12,41 @@
 * User Stats
 
 <p align="center">
-  <img src=https://badgen.net/badge/Born2Code/aperez-b/yellow?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg />
+  <a href="https://github.com/madebypixel02">
+    <img src="https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry">
+  </a>
 </p>
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=madebypixel02&count_private=true&show_icons=true&theme=blueberry />
-</p>
-
-<p align="center">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry />
+  <a href="https://github.com/madebypixel02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebypixel02&theme=blueberry">
+  </a>
 </p>
 
 * 42 Cursus Stats
 
 <p align="center">
+  <a href="https://profile.intra.42.fr/users/aperez-b">
+    <img src="https://badgen.net/badge/Born2Code/aperez-b/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
+</p>
+
+<!--
+<p align="center">
   <img src=https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aperez-b />
 </p>
+-->
 
 <p align="center">
-  <img src=https://badge42.herokuapp.com/api/stats/aperez-b />
+  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
+    <img src="https://badge42.herokuapp.com/api/stats/aperez-b">
+  </a>
 </p>
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark />
+  <a href="https://github.com/madebypixel02/42-Madrid-Cursus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madebypixel02&repo=42-Madrid-Cursus&theme=vue-dark">
+  </a>
 </p>
 
 <!--
