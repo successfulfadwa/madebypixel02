@@ -23,6 +23,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
 * 42 Cursus Stats
 
 <p align="center">
